@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning `Golang` and hopefully `Rust` someday...
 
-- ❤️ I really like working with containers, building *rad* backend services and asknig dumb questions.
+- ❤️ I really like working with containers, building *rad* backend services and asking *dumb* questions.
 
 <!--
 - 👯 I’m looking to collaborate on ...
