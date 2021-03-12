@@ -2,9 +2,9 @@
 
 #### My name is Ben.
 
-- 🔭 I’m currently working on backend web services using `typescript`, `python`, `GraphQL`, `nginx`, and `MongoDB`
+- 🔭 I’m currently working on backend web services using `Typescript`, `Python`, `GraphQL`, `nginx`, and `MongoDB`
 
-- 🌱 I’m currently learning `Golang` and hopefully `Rust` someday...
+- 🌱 I’m currently learning `Go` and hopefully `Rust` someday...
 
 - ❤️ I really like working with containers, building *rad* backend services and asking *dumb* questions.
 
