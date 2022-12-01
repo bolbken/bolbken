@@ -2,7 +2,7 @@
 
 #### My name is Ben.
 
-- 🔭 I’m currently working on real-time backend web services using `Typescript`, `Python`, `Golang`, and `CockroachDB`
+- 🔭 I’m currently working on real-time backend web services using `Typescript`, `Python`, and `Golang`
 
 - 🌱 I’m hoping to master `Golang` someday...
 
