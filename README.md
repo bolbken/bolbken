@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on real-time backend web services using `Typescript`, `Python`, and `Golang`
 
-- 🌱 I’m hoping to master `Golang` someday...
+- 🌱 I’m hoping to learn `Rust` someday...
 
-- ❤️ I really like working with time-series data streams, building *rad* backend services and asking *dumb* questions.
+- ❤️ I really love working with data streams, event driven systems, ...and people.
 
 <!--
 - 👯 I’m looking to collaborate on ...
